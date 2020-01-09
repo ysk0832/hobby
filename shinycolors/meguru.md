@@ -27,9 +27,9 @@
 ## アイドルコミュ
 
 ### 金色の元気いっぱいガール（１周目p-SSR）
-<details>
-<summary>めぐる，大活躍！</summary>
-</details>
+<details><summary>めぐる，大活躍！</summary><div>
+
+</div></details>
 
 <details><summary>止まらない着信音</summary><div>
 
@@ -102,5 +102,5 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
