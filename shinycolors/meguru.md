@@ -46,6 +46,8 @@
 
 <details><summary>きみのための翼</summary><div>
 
+- 指切りげんまん
+
 </div></details>
 
 ### 夏に恋するピチカート！（２周目p-SSR）
@@ -104,6 +106,6 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTUyMjQzMzksLTIzNDc3MDk5LC0yMD
-g2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4Nj
+E0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
 -->
