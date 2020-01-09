@@ -80,7 +80,7 @@
 - 早寝早起き
 - 定食屋よりハンバーガーショップ入る方がハードル低い？
 - アイス好き？
-- バレー大好き
+- バレー大好き（１周目True「きみのための翼」でも試合のことを話している）
 - たい焼きは頭から
 - 小学生の時転校
 
@@ -103,6 +103,6 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMj
-kzMDQwNDhdfQ==
+eyJoaXN0b3J5IjpbLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02ND
+cxNjE4MSwtMzI5MzA0MDQ4XX0=
 -->
