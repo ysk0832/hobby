@@ -58,6 +58,7 @@
 - まにまに（隨に）：他人の意志や事態の成り行きに任せて行動するさま．ある事柄が、他の事柄の進行とともに行われるさま．〜につれて．〜とともに．
 - アイス，ラムネ，扇風機，縁日
 - 「プロデューサーが子どもの頃，っていうのがピンとこないからなのかなぁ・・・？」
+- True「**なんでもない日の夏空**」：買い出し，シャーベット
 
 ---
 
@@ -103,6 +104,6 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02ND
-cxNjE4MSwtMzI5MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbLTE2OTUyMjQzMzksLTIzNDc3MDk5LC0yMD
+g2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4XX0=
 -->
