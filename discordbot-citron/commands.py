@@ -1,0 +1,1 @@
+commands = ["play","stop","pause","resume","list"]
