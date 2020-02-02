@@ -53,12 +53,12 @@
 - 切り傷をユキノシタの葉っぱで治療
 ### 霧子の魔法
 - 恋鐘の部屋？でケーキ作り
-- 
+- 結局部屋掃除で終わる
 
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjQ2NDA2NywyMzQ2OTg1NDUsMzIwOT
-AwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyODM3OTA2
-MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
+eyJoaXN0b3J5IjpbMzAyNDIwMzk4LDIzNDY5ODU0NSwzMjA5MD
+A3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYy
+LDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
 -->
