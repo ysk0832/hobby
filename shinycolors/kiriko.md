@@ -49,7 +49,11 @@
 </divs></details>
 <details><summary>夕・音・鳴・鳴（pSSR）</summary><divs>
 </divs></details>
-<details><summary>天・天（pSR）</summary><divs>
+<details><summary>天・天・白・布（pSR）</summary><divs>
+</divs></details>
+<details><summary>菜・菜・輪・舞（pSSR）</summary><divs>
+</divs></details>
+<details><summary>鱗・鱗・謹・賀（pSSR）</summary><divs>
 </divs></details>
 
 ### サポート
@@ -78,7 +82,7 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mzc2MjU5NSwtNTk4MDM1OTY5LC0zMD
+eyJoaXN0b3J5IjpbMTAxNDA1NDk0MCwtNTk4MDM1OTY5LC0zMD
 E2Nzk3MSwxODQ3NTM0MDY4LDMwMjQyMDM5OCwyMzQ2OTg1NDUs
 MzIwOTAwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyOD
 M3OTA2MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
