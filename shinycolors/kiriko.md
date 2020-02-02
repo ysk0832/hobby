@@ -36,12 +36,13 @@
 - うさぎ座，ただいま．おかえり
 - 小さい頃から両親の帰りが遅かった
 ### 糸とこえ
-- い
+- 糸電話（病院の子が欲しがってた）
+- 「おーい」「はーい」
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5ODYyOTg1LDMyMDkwMDc5OCwtNjQzOD
-E5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMDA1ODE0
-OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbLTczNzY0MjAxMiwzMjA5MDA3OTgsLTY0Mz
+gxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYyLDEyMTAwNTgx
+NDksLTE0NzY0MTg4MTNdfQ==
 -->
