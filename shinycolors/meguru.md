@@ -36,22 +36,28 @@
 ## アイドルコミュ
 ### プロデュース
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
+
+- めぐる，大活躍！
+- 止まらない着信音
+- 仲直りの仕方
+- 本当の自分と特別な人
+  - 「わたしはプロデューサーが思ってるよりずっと臆病で・・・」
+ - 選択肢「そんなこと言ってると，誤解されるぞ」→「プロデューサーだから言ったんだもん」
 </divs></details>
 ### サポート
-<details><summary>めぐる，大活躍！</summary><div>
+<details><summary></summary><div>
 
 </div></details>
 
-<details><summary>止まらない着信音</summary><div>
+<details><summary></summary><div>
 
 </div></details>
-<details><summary>仲直りの仕方</summary><div>
+<details><summary></summary><div>
 
 </div></details>
-<details><summary>本当の自分と特別な人</summary><div>
+<details><summary></summary><div>
 
-- 「わたしはプロデューサーが思ってるよりずっと臆病で・・・」
-- 選択肢「そんなこと言ってると，誤解されるぞ」→「プロデューサーだから言ったんだもん」
+
 
 </div></details>
 
@@ -117,7 +123,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1OTA5MDczLDgzOTEzMDEyOCwtMjM0Nz
-cwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhd
-fQ==
+eyJoaXN0b3J5IjpbMjEwMzMxMzUyNyw4MzkxMzAxMjgsLTIzND
+c3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4
+XX0=
 -->
