@@ -52,22 +52,14 @@
 - 恋がわからない．「・・・わたし，みんなのことが大好きなんだ」「でも，それのどこから恋になるんだろう・・・」
 - True「**なんでもない日の星空**」：出会いの公園でこれまでを振り返る．「お仕事やレッスンもそうだけどこういうなんでもない日もたくさん覚えておきたいの」
 </divs></details>
+<details><summary>シュカのまにまに（pSSR）</summary><div>
 
-### サポート
-
-
-
-
-
-
-
-
-### シュカのまにまに（３周目p-SSR）
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
 - まにまに（隨に）：他人の意志や事態の成り行きに任せて行動するさま．ある事柄が、他の事柄の進行とともに行われるさま．〜につれて．〜とともに．
 - アイス，ラムネ，扇風機，縁日
 - 「プロデューサーが子どもの頃，っていうのがピンとこないからなのかなぁ・・・？」
 - True「**なんでもない日の夏空**」：買い出し，シャーベット
+</divs></details>
 
 ---
 
@@ -113,7 +105,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMzEyMDk1LDgzOTEzMDEyOCwtMjM0Nz
-cwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhd
-fQ==
+eyJoaXN0b3J5IjpbLTM5NjIxNTU3NSw4MzkxMzAxMjgsLTIzND
+c3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4
+XX0=
 -->
