@@ -43,7 +43,7 @@
 </divs></details>
 
 ### サポート
-<details><summary>283プロのヒナ</summary><divs>
+<details><summary>283プロのヒナ（sR）</summary><divs>
 
 ### バンソウコウ・マジック
 - 恋鐘の靴擦れを治療
@@ -68,8 +68,8 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTY3OTcxLDE4NDc1MzQwNjgsMzAyND
-IwMzk4LDIzNDY5ODU0NSwzMjA5MDA3OTgsLTY0MzgxOTc4Nywt
-NjI3NDkzMDQ3LC0xOTI4Mzc5MDYyLDEyMTAwNTgxNDksLTE0Nz
-Y0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbLTU5ODAzNTk2OSwtMzAxNjc5NzEsMTg0Nz
+UzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1LDMyMDkwMDc5OCwt
+NjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMD
+A1ODE0OSwtMTQ3NjQxODgxM119
 -->
