@@ -56,10 +56,9 @@
 - 結局部屋掃除で終わる
 - 霧子にできること，恋鐘にできないこと
 
-
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODk2MzM3OCwzMDI0MjAzOTgsMjM0Nj
+eyJoaXN0b3J5IjpbLTcwOTEwNjE0NCwzMDI0MjAzOTgsMjM0Nj
 k4NTQ1LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcs
 LTE5MjgzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
