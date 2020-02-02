@@ -46,18 +46,21 @@
 - きみのための翼
   - 指切りげんまん
 </divs></details>
+<details><summary>夏に恋するピチカート！（pSSR）</summary><div>
 
-### サポート
-<details><summary></summary><div>
-
-
-
-
-
-### 夏に恋するピチカート！（２周目p-SSR）
 - ピチカート（伊：pizzicato）：音楽用語．バイオリンなどの擦弦(さつげん)楽器の弦を指ではじいて音を出す技法．楽譜にはpizzicato（略してpizz.）と記し，再び弓での演奏に戻すときはarco（アルコ。イタリア語で〈弓〉の意）と指定．
 - 恋がわからない．「・・・わたし，みんなのことが大好きなんだ」「でも，それのどこから恋になるんだろう・・・」
 - True「**なんでもない日の星空**」：出会いの公園でこれまでを振り返る．「お仕事やレッスンもそうだけどこういうなんでもない日もたくさん覚えておきたいの」
+</divs></details>
+
+### サポート
+
+
+
+
+
+
+
 
 ### シュカのまにまに（３周目p-SSR）
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
@@ -110,7 +113,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjAxNjYyNyw4MzkxMzAxMjgsLTIzND
-c3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4
-XX0=
+eyJoaXN0b3J5IjpbMjMxMzEyMDk1LDgzOTEzMDEyOCwtMjM0Nz
+cwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhd
+fQ==
 -->
