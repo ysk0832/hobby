@@ -26,11 +26,11 @@
 <details><summary>霧・音・燦・燦（pSSR）</summary><divs>
 
 ### あめです
-- 
+- 風邪，サボテンさん
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzMzU1MjYsMTIxMDA1ODE0OSwtMT
+eyJoaXN0b3J5IjpbLTE5MjgzNzkwNjIsMTIxMDA1ODE0OSwtMT
 Q3NjQxODgxM119
 -->
