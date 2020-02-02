@@ -46,14 +46,15 @@
 <details><summary>綿毛ノ想</summary><divs>
 
 ### 寄り道
-- 河川敷のたんぽぽ
+- 霧子はたんぽぽに似てる
+- 恋鐘は春に似てる
 ### 憧れ
 ### 霧子の魔法
 
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwMTQ4ODUsMjM0Njk4NTQ1LDMyMD
-kwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkw
-NjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbODI0MTc0OTM2LDIzNDY5ODU0NSwzMjA5MD
+A3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYy
+LDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
 -->
