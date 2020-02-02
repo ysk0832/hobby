@@ -77,8 +77,7 @@
   - 待ち合わせするようになる
   - お互いに憧れてる
 - 春風フレンドシップ
-- 真乃とめぐるのコミュ
-（スクショ）
+  - ペットショップで鳥に囲まれる真乃
 </divs></details>
 <details><summary>友達という灯り（sSR）</summary><div>
 
@@ -119,7 +118,7 @@
 - 2019クリスマス
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzc5ODIwMSwtMTQxMDM4OTU0MywtMT
+eyJoaXN0b3J5IjpbMTI5MDg4ODA2NiwtMTQxMDM4OTU0MywtMT
 QzNjQ2MzkwNCwtMjEyNDY5Njc2NywtMzk2MjE1NTc1LDgzOTEz
 MDEyOCwtMjM0NzcwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC
 0zMjkzMDQwNDhdfQ==
