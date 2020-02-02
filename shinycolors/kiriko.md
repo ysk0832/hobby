@@ -28,11 +28,11 @@
 ### あめです
 - 風邪，サボテンさん
 - 教会，ステンドグラス
-- ねぶた祭り→青森出身
+- おばあちゃんとねぶた祭り→青森出身
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDU3MzcxMCwtMTkyODM3OTA2MiwxMj
-EwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
+eyJoaXN0b3J5IjpbLTIwNjQxMDAzNTEsLTE5MjgzNzkwNjIsMT
+IxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
