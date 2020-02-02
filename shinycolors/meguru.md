@@ -34,8 +34,10 @@
 ---
 
 ## アイドルコミュ
-
-### 金色の元気いっぱいガール（１周目p-SSR）
+### プロデュース
+<details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
+</divs></details>
+### サポート
 <details><summary>めぐる，大活躍！</summary><div>
 
 </div></details>
@@ -115,7 +117,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNjc0NjU0LDgzOTEzMDEyOCwtMjM0Nz
+eyJoaXN0b3J5IjpbNTA1OTA5MDczLDgzOTEzMDEyOCwtMjM0Nz
 cwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhd
 fQ==
 -->
