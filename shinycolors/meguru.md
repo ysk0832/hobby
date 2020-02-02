@@ -63,18 +63,22 @@
 
 
 ### サポート
-<details><summary>シュカのまにまに（sSSR）</summary><div>
-</divs></details>
-### 283プロのヒナ
+<details><summary>283プロのヒナ（sR）</summary><div>
+
 - めぐる，ぴーちゃんと出会う
 - 灯織にくっつきたがるめぐる
+</divs></details>
+<details><summary>友情の花吹雪（sSR）</summary><div>
 
-### 友情の花吹雪
 - 真乃とめぐるのコミュ
 （スクショ）
+</divs></details>
+<details><summary>友達という灯り（sSR）</summary><div>
+</divs></details>
+<details><summary>シュカのまにまに（sSSR）</summary><div>
+</divs></details>
 
-### 友達という灯り
-- 灯織復活記念パーティー
+
 
 ---
 
@@ -105,7 +109,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MTcxNzM1LC0zOTYyMTU1NzUsODM5MT
-MwMTI4LC0yMzQ3NzA5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEs
-LTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbMTQzOTIyODg0NywtMzk2MjE1NTc1LDgzOT
+EzMDEyOCwtMjM0NzcwOTksLTIwODYxNDQzNTksLTY0NzE2MTgx
+LC0zMjkzMDQwNDhdfQ==
 -->
