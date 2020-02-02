@@ -5,8 +5,6 @@
 ## 共通コミュ
 <details><summary>W.I.N.G.</summary><divs>
 
-</divs>,
-
 ### 出会い　輝きはめまぐるしく
 - 書類合格，直接会うのは初めて
 
@@ -26,6 +24,12 @@
 ### シーズン４　これがわたしだから
 - スケジュール調整のおかげで友達と遊べた
 - 友達「いままで助けてくれた分，めぐるのライブの時には私たちが応援に行くから」と，見に来てくれた
+
+</divs></details>
+
+<details><summary>感謝祭</summary><divs>
+
+</divs></details>
 
 ---
 
@@ -111,7 +115,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODEwMjM2OTUsODM5MTMwMTI4LC0yMz
-Q3NzA5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0
-OF19
+eyJoaXN0b3J5IjpbMjQyNjc0NjU0LDgzOTEzMDEyOCwtMjM0Nz
+cwOTksLTIwODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhd
+fQ==
 -->
