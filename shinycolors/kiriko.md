@@ -54,11 +54,12 @@
 ### 霧子の魔法
 - 恋鐘の部屋？でケーキ作り
 - 結局部屋掃除で終わる
+- 霧子にできること，恋鐘にできないこと
 
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNDIwMzk4LDIzNDY5ODU0NSwzMjA5MD
-A3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYy
-LDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbMTc5ODk2MzM3OCwzMDI0MjAzOTgsMjM0Nj
+k4NTQ1LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcs
+LTE5MjgzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
