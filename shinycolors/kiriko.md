@@ -27,10 +27,11 @@
 
 ### あめです
 - 風邪，サボテンさん
+- 教会，ステンドグラス
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgzNzkwNjIsMTIxMDA1ODE0OSwtMT
-Q3NjQxODgxM119
+eyJoaXN0b3J5IjpbMTMyMTQ2NDQ4MSwtMTkyODM3OTA2MiwxMj
+EwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
 -->
