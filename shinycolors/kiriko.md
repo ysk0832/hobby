@@ -46,8 +46,11 @@
 <details><summary>283プロのヒナ</summary><divs>
 
 ### バンソウコウ・マジック
-- 恋鐘の靴づれ
+- 恋鐘の靴擦れを治療
+- 色んな絆創膏を作る
 ### BBAOAB
+- 血液型，輸血
+- AB型は誰からでも輸血できる
 
 </divs></details>
 <details><summary>綿毛ノ想（pSR）</summary><divs>
@@ -65,8 +68,8 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODc2ODQ1NCwxODQ3NTM0MDY4LDMwMj
-QyMDM5OCwyMzQ2OTg1NDUsMzIwOTAwNzk4LC02NDM4MTk3ODcs
-LTYyNzQ5MzA0NywtMTkyODM3OTA2MiwxMjEwMDU4MTQ5LC0xND
-c2NDE4ODEzXX0=
+eyJoaXN0b3J5IjpbLTMwMTY3OTcxLDE4NDc1MzQwNjgsMzAyND
+IwMzk4LDIzNDY5ODU0NSwzMjA5MDA3OTgsLTY0MzgxOTc4Nywt
+NjI3NDkzMDQ3LC0xOTI4Mzc5MDYyLDEyMTAwNTgxNDksLTE0Nz
+Y0MTg4MTNdfQ==
 -->
