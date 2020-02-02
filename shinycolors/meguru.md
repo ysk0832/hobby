@@ -70,6 +70,10 @@
 </divs></details>
 <details><summary>友情の花吹雪（sSR）</summary><div>
 
+- お友達になる方法
+  - 真乃と事務所に向かう．が
+- 似た者同士と花吹雪
+- 春風フレンドシップ
 - 真乃とめぐるのコミュ
 （スクショ）
 </divs></details>
@@ -112,7 +116,7 @@
 - 2019クリスマス
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ2OTY3NjcsLTM5NjIxNTU3NSw4Mz
-kxMzAxMjgsLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNjE4
-MSwtMzI5MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbLTgyNTYzMjAxOSwtMjEyNDY5Njc2NywtMz
+k2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIwODYxNDQz
+NTksLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
