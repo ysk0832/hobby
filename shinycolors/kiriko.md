@@ -23,8 +23,14 @@
 
 
 ## アイドルコミュ
-### 霧・音・燦・燦（pSSR）
+<details><summary>霧・音・燦・燦（pSSR）</summary><divs>
+
+### あめです
+- 
+
+</divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbLTE4NzkzMzU1MjYsMTIxMDA1ODE0OSwtMT
+Q3NjQxODgxM119
 -->
