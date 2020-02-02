@@ -26,9 +26,11 @@
 ### プロデュース
 <details><summary>包・帯・組・曲（pSR）</summary><divs>
 </divs></details>
+
 <details><summary>伝・伝・心・音（pSR）</summary><divs>
 </divs></details>
-<details><summary>霧・音・燦・燦（pSSR１周目）</summary><divs>
+
+<details><summary>霧・音・燦・燦（pSSR）</summary><divs>
 
 ### あめです
 - 風邪，サボテンさん
@@ -47,12 +49,16 @@
 </divs></details>
 <details><summary>白・白・白・祈（pSR）</summary><divs>
 </divs></details>
+
 <details><summary>夕・音・鳴・鳴（pSSR）</summary><divs>
 </divs></details>
+
 <details><summary>天・天・白・布（pSR）</summary><divs>
 </divs></details>
+
 <details><summary>菜・菜・輪・舞（pSSR）</summary><divs>
 </divs></details>
+
 <details><summary>鱗・鱗・謹・賀（pSSR）</summary><divs>
 </divs></details>
 
@@ -96,9 +102,12 @@
 
 <details><summary>我・思・君・思（sSR）</summary><divs>
 </divs></details>
+
+<details><summary>潜・潜・夏・娘（sSSR）</summary><divs>
+</divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODk2MjcxLC01OTgwMzU5NjksLTMwMT
-Y3OTcxLDE4NDc1MzQwNjgsMzAyNDIwMzk4LDIzNDY5ODU0NSwz
-MjA5MDA3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mz
-c5MDYyLDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbLTIwODA2NzcwNTEsLTU5ODAzNTk2OSwtMz
+AxNjc5NzEsMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1
+LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5Mj
+gzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
