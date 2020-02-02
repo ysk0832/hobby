@@ -36,11 +36,12 @@
 - うさぎ座，ただいま．おかえり
 - 小さい頃から両親の帰りが遅かった
 ### 糸とこえ
+- い
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwOTAwNzk4LC02NDM4MTk3ODcsLTYyNz
-Q5MzA0NywtMTkyODM3OTA2MiwxMjEwMDU4MTQ5LC0xNDc2NDE4
-ODEzXX0=
+eyJoaXN0b3J5IjpbMzk5ODYyOTg1LDMyMDkwMDc5OCwtNjQzOD
+E5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMDA1ODE0
+OSwtMTQ3NjQxODgxM119
 -->
