@@ -23,7 +23,7 @@
 
 
 ## アイドルコミュ
-<details><summary>霧・音・燦・燦（pSSR）</summary><divs>
+<details><summary>霧・音・燦・燦（pSSR１周目）</summary><divs>
 
 ### あめです
 - 風邪，サボテンさん
@@ -42,7 +42,7 @@
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzY0MjAxMiwzMjA5MDA3OTgsLTY0Mz
-gxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYyLDEyMTAwNTgx
-NDksLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbMjM0Njk4NTQ1LDMyMDkwMDc5OCwtNjQzOD
+E5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMDA1ODE0
+OSwtMTQ3NjQxODgxM119
 -->
