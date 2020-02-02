@@ -30,10 +30,15 @@
 ### きこえる
 - 教会，ステンドグラス
 - おばあちゃんとねぶた祭り→青森出身
+### ねずみさんの一家
+- 「部屋の町」でねずみさんごっこ
+### ほしをひとまわり
+- 
+### 糸とこえ
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzQ5MzA0NywtMTkyODM3OTA2MiwxMj
-EwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
+eyJoaXN0b3J5IjpbLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOT
+I4Mzc5MDYyLDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
 -->
