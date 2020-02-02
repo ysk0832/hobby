@@ -20,6 +20,10 @@
 
 ### わたしのしるし
 - 撮影で自ら包帯を見せる提案．
+
+
+## アイドルコミュ
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbOTgwMzQ2MTUzLC0xNDc2NDE4ODEzXX0=
 -->
