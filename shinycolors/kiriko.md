@@ -81,9 +81,24 @@
 - 霧子にできること，恋鐘にできないこと
 
 </divs></details>
+
+<details><summary>伝・伝・心・音（pSR）</summary><divs>
+</divs></details>
+
+<details><summary>娘・娘・金・魚（sSR）</summary><divs>
+</divs></details>
+
+<details><summary>伝・伝・心・音（pSR）</summary><divs>
+</divs></details>
+
+<details><summary>伝・伝・心・音（pSR）</summary><divs>
+</divs></details>
+
+<details><summary>伝・伝・心・音（pSR）</summary><divs>
+</divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDA1NDk0MCwtNTk4MDM1OTY5LC0zMD
-E2Nzk3MSwxODQ3NTM0MDY4LDMwMjQyMDM5OCwyMzQ2OTg1NDUs
-MzIwOTAwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyOD
-M3OTA2MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
+eyJoaXN0b3J5IjpbLTExNDY5NTg5NjIsLTU5ODAzNTk2OSwtMz
+AxNjc5NzEsMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1
+LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5Mj
+gzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
