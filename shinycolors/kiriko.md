@@ -88,17 +88,17 @@
 <details><summary>娘・娘・金・魚（sSR）</summary><divs>
 </divs></details>
 
-<details><summary>伝・伝・心・音（pSR）</summary><divs>
+<details><summary>霧・霧・奇・譚（sSSR）</summary><divs>
 </divs></details>
 
-<details><summary>伝・伝・心・音（pSR）</summary><divs>
+<details><summary>娘・娘・謹・賀（sSSR）</summary><divs>
 </divs></details>
 
-<details><summary>伝・伝・心・音（pSR）</summary><divs>
+<details><summary>我・思・君・思（sSR）</summary><divs>
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY5NTg5NjIsLTU5ODAzNTk2OSwtMz
-AxNjc5NzEsMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1
-LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5Mj
-gzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbLTgyODk2MjcxLC01OTgwMzU5NjksLTMwMT
+Y3OTcxLDE4NDc1MzQwNjgsMzAyNDIwMzk4LDIzNDY5ODU0NSwz
+MjA5MDA3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mz
+c5MDYyLDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
 -->
