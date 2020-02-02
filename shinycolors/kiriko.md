@@ -24,6 +24,10 @@
 
 ## アイドルコミュ
 ### プロデュース
+<details><summary>包・帯・組・曲（pSR）</summary><divs>
+</divs></details>
+<details><summary>伝・伝・心・音（pSR）</summary><divs>
+</divs></details>
 <details><summary>霧・音・燦・燦（pSSR１周目）</summary><divs>
 
 ### あめです
@@ -68,8 +72,8 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODAzNTk2OSwtMzAxNjc5NzEsMTg0Nz
-UzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1LDMyMDkwMDc5OCwt
-NjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMD
-A1ODE0OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbLTEwMTUyODk1MzEsLTU5ODAzNTk2OSwtMz
+AxNjc5NzEsMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1
+LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5Mj
+gzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
