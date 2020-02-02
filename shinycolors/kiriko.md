@@ -23,6 +23,7 @@
 
 
 ## アイドルコミュ
+### プロデュース
 <details><summary>霧・音・燦・燦（pSSR１周目）</summary><divs>
 
 ### あめです
@@ -41,8 +42,12 @@
 
 </divs></details>
 
+### サポート
+<details><summary>綿毛ノ想</summary><divs>
+
+</divs></
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0Njk4NTQ1LDMyMDkwMDc5OCwtNjQzOD
-E5Nzg3LC02Mjc0OTMwNDcsLTE5MjgzNzkwNjIsMTIxMDA1ODE0
-OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbLTYxOTc3NDM5MiwyMzQ2OTg1NDUsMzIwOT
+AwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyODM3OTA2
+MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
 -->
