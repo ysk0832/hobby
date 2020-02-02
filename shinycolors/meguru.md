@@ -74,10 +74,11 @@
 （スクショ）
 </divs></details>
 <details><summary>友達という灯り（sSR）</summary><div>
+
+- 灯織復活記念パーティー
 </divs></details>
 <details><summary>シュカのまにまに（sSSR）</summary><div>
 </divs></details>
-
 
 
 ---
@@ -106,10 +107,12 @@
 - ソルフェージュ：フランス語
 
 ## アイス
+- 朝コミュ
 - 光が落ちてくる（シュカのまにまに）
+- 2019
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTIyODg0NywtMzk2MjE1NTc1LDgzOT
-EzMDEyOCwtMjM0NzcwOTksLTIwODYxNDQzNTksLTY0NzE2MTgx
-LC0zMjkzMDQwNDhdfQ==
+eyJoaXN0b3J5IjpbODAxNDU1MTU4LC0zOTYyMTU1NzUsODM5MT
+MwMTI4LC0yMzQ3NzA5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEs
+LTMyOTMwNDA0OF19
 -->
