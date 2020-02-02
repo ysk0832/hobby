@@ -1,6 +1,11 @@
 # 八宮めぐる
 
-## W.I.N.G.
+---
+
+## 共通コミュ
+<details><summary>W.I.N.G.</summary><divs>
+
+</divs>,
 
 ### 出会い　輝きはめまぐるしく
 - 書類合格，直接会うのは初めて
@@ -106,6 +111,7 @@
 - 光が落ちてくる（シュカのまにまに）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4Nj
-E0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbLTE1ODEwMjM2OTUsODM5MTMwMTI4LC0yMz
+Q3NzA5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0
+OF19
 -->
