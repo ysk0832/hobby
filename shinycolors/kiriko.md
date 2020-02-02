@@ -45,6 +45,12 @@
 - 「おーい」「はーい」
 
 </divs></details>
+<details><summary>白・白・白・祈（pSR）</summary><divs>
+</divs></details>
+<details><summary>夕・音・鳴・鳴（pSSR）</summary><divs>
+</divs></details>
+<details><summary>天・天（pSR）</summary><divs>
+</divs></details>
 
 ### サポート
 <details><summary>283プロのヒナ（sR）</summary><divs>
@@ -72,8 +78,8 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUyODk1MzEsLTU5ODAzNTk2OSwtMz
-AxNjc5NzEsMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Njk4NTQ1
-LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcsLTE5Mj
-gzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
+eyJoaXN0b3J5IjpbMTM5Mzc2MjU5NSwtNTk4MDM1OTY5LC0zMD
+E2Nzk3MSwxODQ3NTM0MDY4LDMwMjQyMDM5OCwyMzQ2OTg1NDUs
+MzIwOTAwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyOD
+M3OTA2MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
 -->
