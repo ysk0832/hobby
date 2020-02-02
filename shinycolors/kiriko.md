@@ -49,14 +49,16 @@
 - 霧子はたんぽぽに似てる
 - 恋鐘は春に似てる
 ### 憧れ
-- 
-- きりいユキノシタの葉っぱで治療
+- 恋鐘が霧子にケーキをお礼
+- 切り傷をユキノシタの葉っぱで治療
 ### 霧子の魔法
+- 恋鐘の部屋？でケーキ作り
+- 
 
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkyMzk3LDIzNDY5ODU0NSwzMjA5MD
-A3OTgsLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOTI4Mzc5MDYy
-LDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbMTY4MjQ2NDA2NywyMzQ2OTg1NDUsMzIwOT
+AwNzk4LC02NDM4MTk3ODcsLTYyNzQ5MzA0NywtMTkyODM3OTA2
+MiwxMjEwMDU4MTQ5LC0xNDc2NDE4ODEzXX0=
 -->
