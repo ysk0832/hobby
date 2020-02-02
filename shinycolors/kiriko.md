@@ -43,7 +43,7 @@
 </divs></details>
 
 ### サポート
-<details><summary>綿毛ノ想</summary><divs>
+<details><summary>綿毛ノ想（pSR）</summary><divs>
 
 ### 寄り道
 - 霧子はたんぽぽに似てる
@@ -58,7 +58,7 @@
 
 </divs></details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTEwNjE0NCwzMDI0MjAzOTgsMjM0Nj
+eyJoaXN0b3J5IjpbMTg0NzUzNDA2OCwzMDI0MjAzOTgsMjM0Nj
 k4NTQ1LDMyMDkwMDc5OCwtNjQzODE5Nzg3LC02Mjc0OTMwNDcs
 LTE5MjgzNzkwNjIsMTIxMDA1ODE0OSwtMTQ3NjQxODgxM119
 -->
