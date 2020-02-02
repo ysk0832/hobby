@@ -33,12 +33,14 @@
 ### ねずみさんの一家
 - 「部屋の町」でねずみさんごっこ
 ### ほしをひとまわり
-- 
+- うさぎ座，ただいま．おかえり
+- 小さい頃から両親の帰りが遅かった
 ### 糸とこえ
 
 </divs></details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzgxOTc4NywtNjI3NDkzMDQ3LC0xOT
-I4Mzc5MDYyLDEyMTAwNTgxNDksLTE0NzY0MTg4MTNdfQ==
+eyJoaXN0b3J5IjpbMzIwOTAwNzk4LC02NDM4MTk3ODcsLTYyNz
+Q5MzA0NywtMTkyODM3OTA2MiwxMjEwMDU4MTQ5LC0xNDc2NDE4
+ODEzXX0=
 -->
