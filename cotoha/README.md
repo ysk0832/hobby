@@ -1,8 +1,8 @@
 Qiitaに記事を投稿しています．
-[]()
+[森久保乃々のネガティブ度を感情分析してみましたけど...。【ポジパと比較】](https://qiita.com/ysk0832/items/b30ab6697389ee5aa45a)
 
 # 使い方
-1. アクセストークン取得（アカウント情報は[こちら](https://api.ce-cotoha.com/home)）
+1. アクセストークン取得（アカウント情報は[こちら](https://api.ce-cotoha.com/home)から確認）
 ```
 curl -X POST -H "Content-Type:application/json" -d '{
   "grantType": "client_credentials",
