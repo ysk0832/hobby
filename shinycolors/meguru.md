@@ -80,7 +80,8 @@
 <details><summary>小さな夜のトロイメライ（pSR）2018/12/21</summary><div>
 
 - [トロイメライの意味](https://kotobank.jp/word/%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4-675633)
-- 曲は誰でも聞いたことあるやつ：[https://www.youtube.com/watch?v=tHuzSMnWpU8](https://www.youtube.com/watch?v=tHuzSMnWpU8)
+- 曲は誰でも聞いたことあるやつ：https://www.youtube.com/watch?v=tHuzSMnWpU8
+- 
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
@@ -174,11 +175,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE2NTg5NDQsLTgzODc0NTcxNywtMT
-k3Mzg0MDAxOSwtMTE2NjM0NDk3NiwxMDExODkzNDgsLTI1MzU0
-ODk5NSw3MzMzNjc3NzgsMTk2NzI0MDU3NCwxODMzNzc0NDQxLC
-0zMjcxOTY1ODgsLTE3NDQzMDQwMjMsLTE5MDc4MDk2NzAsMTA4
-MzExNDAwMywxNjc0NjQ4NDE0LDEyOTA4ODgwNjYsLTE0MTAzOD
-k1NDMsLTE0MzY0NjM5MDQsLTIxMjQ2OTY3NjcsLTM5NjIxNTU3
-NSw4MzkxMzAxMjhdfQ==
+eyJoaXN0b3J5IjpbODY1NjE1NzQ1LC04Mzg3NDU3MTcsLTE5Nz
+M4NDAwMTksLTExNjYzNDQ5NzYsMTAxMTg5MzQ4LC0yNTM1NDg5
+OTUsNzMzMzY3Nzc4LDE5NjcyNDA1NzQsMTgzMzc3NDQ0MSwtMz
+I3MTk2NTg4LC0xNzQ0MzA0MDIzLC0xOTA3ODA5NjcwLDEwODMx
+MTQwMDMsMTY3NDY0ODQxNCwxMjkwODg4MDY2LC0xNDEwMzg5NT
+QzLC0xNDM2NDYzOTA0LC0yMTI0Njk2NzY3LC0zOTYyMTU1NzUs
+ODM5MTMwMTI4XX0=
 -->
