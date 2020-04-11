@@ -36,9 +36,9 @@
 ## アイドルコミュ
 ### 実装順
 
-|カード名|実装日  |
+|実装日|カード名|
 |--|--|
-|  |  |
+|初期から|283プロのヒナ（sR）<br>|
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
 
@@ -139,7 +139,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTI0NTk5OCwtMzI3MTk2NTg4LC0xNz
+eyJoaXN0b3J5IjpbMTQ3NzM0NzkwMSwtMzI3MTk2NTg4LC0xNz
 Q0MzA0MDIzLC0xOTA3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0
 ODQxNCwxMjkwODg4MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOT
 A0LC0yMTI0Njk2NzY3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0y
