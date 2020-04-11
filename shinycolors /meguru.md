@@ -82,10 +82,9 @@
 - [トロイメライの意味](https://kotobank.jp/word/%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4-675633)
 - 曲は誰でも聞いたことあるやつ：https://www.youtube.com/watch?v=tHuzSMnWpU8
 - ON:消失のクライシス
-  - 「プロデューサーとアイドル」の関係
 - OFF:その甘さは時をかける
-  - 「」
 - YOU:おやすみと星が瞬くように
+- 一つ目から二つ目にかけて
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
@@ -181,7 +180,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk0MzI1NDYsMTU0NTU4OTIxMiwtOD
-M4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4
-OTM0OF19
+eyJoaXN0b3J5IjpbNTQxMTA5NjMxLDE1NDU1ODkyMTIsLTgzOD
+c0NTcxNywtMTk3Mzg0MDAxOSwtMTE2NjM0NDk3NiwxMDExODkz
+NDhdfQ==
 -->
