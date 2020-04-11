@@ -89,7 +89,7 @@
 - Pに予定を調整してもらい3人で旅行
 - 流れ星に夢を宣誓
 </divs></details>
-<details><summary>キャプテン★パンプキン（sSSR）2018/05/10</summary><div>
+<details><summary>キャプテン★パンプキン（sSSR）2018/09/30</summary><div>
 
 - 【遊び疲れて･･････】風野灯織と繋がっている
 - Pに予定を調整してもらい3人で旅行
@@ -129,9 +129,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTcyODk2MCwtMTc0NDMwNDAyMywtMT
-kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
-ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
-c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
-ODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
+eyJoaXN0b3J5IjpbLTQ0NzAyMzk0LC0xNzQ0MzA0MDIzLC0xOT
+A3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0ODQxNCwxMjkwODg4
+MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOTA0LC0yMTI0Njk2Nz
+Y3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4
+NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
 -->
