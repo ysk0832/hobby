@@ -52,6 +52,11 @@
 - 恋がわからない．「・・・わたし，みんなのことが大好きなんだ」「でも，それのどこから恋になるんだろう・・・」
 - True「**なんでもない日の星空**」：出会いの公園でこれまでを振り返る．「お仕事やレッスンもそうだけどこういうなんでもない日もたくさん覚えておきたいの」
 </divs></details>
+<details><summary>キネマ・リリックで夢見て（pSR）2018/09/20</summary><div>
+
+- めぐる，ぴーちゃんと出会う
+- 灯織にくっつきたがるめぐる
+</divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
@@ -129,9 +134,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzAyMzk0LC0xNzQ0MzA0MDIzLC0xOT
-A3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0ODQxNCwxMjkwODg4
-MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOTA0LC0yMTI0Njk2Nz
-Y3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4
-NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbMTMwNjI5MzAwOSwtMTc0NDMwNDAyMywtMT
+kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
+ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
+c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
+ODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
