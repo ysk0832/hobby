@@ -79,7 +79,7 @@
 </divs></details>
 <details><summary>小さな夜のトロイメライ（pSR）2018/12/21</summary><div>
 
-- 
+- [トロイメライの意味]([https://kotobank.jp/word/%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4-675633](https://kotobank.jp/word/%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4-675633))
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
@@ -173,6 +173,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMT
-E2NjM0NDk3NiwxMDExODkzNDhdfQ==
+eyJoaXN0b3J5IjpbNTU0ODA2MjQwLC04Mzg3NDU3MTcsLTE5Nz
+M4NDAwMTksLTExNjYzNDQ5NzYsMTAxMTg5MzQ4XX0=
 -->
