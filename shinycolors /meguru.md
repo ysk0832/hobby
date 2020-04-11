@@ -84,7 +84,7 @@
 - ON:消失のクライシス
 - OFF:その甘さは時をかける
 - YOU:おやすみと星が瞬くように
-- 一つ目から二つ目にかけて「プロデューサーとアイドル」から「大人と子供」という構図になる
+- 一つ目から二つ目にかけて「プロデューサーとアイドル」から「大人と子供」という構図になる（コーヒー）
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
@@ -180,7 +180,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTc3NDQxMCwxNTQ1NTg5MjEyLC04Mz
+eyJoaXN0b3J5IjpbMTA2MTkzMzc4NCwxNTQ1NTg5MjEyLC04Mz
 g3NDU3MTcsLTE5NzM4NDAwMTksLTExNjYzNDQ5NzYsMTAxMTg5
 MzQ4XX0=
 -->
