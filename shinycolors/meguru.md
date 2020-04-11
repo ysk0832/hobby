@@ -82,7 +82,10 @@
 - [トロイメライの意味](https://kotobank.jp/word/%E3%83%88%E3%83%AD%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4-675633)
 - 曲は誰でも聞いたことあるやつ：https://www.youtube.com/watch?v=tHuzSMnWpU8
 - ON:消失のクライシス
-- 
+  - 「プロデューサーとアイドル」の関係
+- OFF:その甘さは時をかける
+  - 
+- YOU:おやすみと星が瞬くように
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
@@ -178,11 +181,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcwMzI2NjksMTU0NTU4OTIxMiwtOD
-M4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4
-OTM0OCwtMjUzNTQ4OTk1LDczMzM2Nzc3OCwxOTY3MjQwNTc0LD
-E4MzM3NzQ0NDEsLTMyNzE5NjU4OCwtMTc0NDMwNDAyMywtMTkw
-NzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4OD
-A2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Njc2
-NywtMzk2MjE1NTc1XX0=
+eyJoaXN0b3J5IjpbMzIyNjQxMzA5LDE1NDU1ODkyMTIsLTgzOD
+c0NTcxNywtMTk3Mzg0MDAxOSwtMTE2NjM0NDk3NiwxMDExODkz
+NDgsLTI1MzU0ODk5NSw3MzMzNjc3NzgsMTk2NzI0MDU3NCwxOD
+MzNzc0NDQxLC0zMjcxOTY1ODgsLTE3NDQzMDQwMjMsLTE5MDc4
+MDk2NzAsMTA4MzExNDAwMywxNjc0NjQ4NDE0LDEyOTA4ODgwNj
+YsLTE0MTAzODk1NDMsLTE0MzY0NjM5MDQsLTIxMjQ2OTY3Njcs
+LTM5NjIxNTU3NV19
 -->
