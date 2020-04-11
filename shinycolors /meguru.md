@@ -122,7 +122,7 @@
 
 - 
 </divs></details>
-<details><summary>キャプテン★パンプキン（sSSR）2018/09/30</summary><div>
+<details><summary>アイムカミングスーン（sSR）2019/01/31</summary><div>
 
 - 
 </divs></details>
@@ -160,6 +160,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjA5MzExNCwtMTE2NjM0NDk3NiwxMD
-ExODkzNDhdfQ==
+eyJoaXN0b3J5IjpbLTEzMDE4OTk0ODAsLTExNjYzNDQ5NzYsMT
+AxMTg5MzQ4XX0=
 -->
