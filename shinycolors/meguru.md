@@ -49,6 +49,7 @@
 |2019/01/31|アイムカミングスーン|
 |2019/04/19|チエルアルコは流星の|
 |2019/04/29|花笑み咲匂う|
+|2019/06/20|シュカのまにまに|
 |2019/07/19|サンシャインシエスタ！|
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
@@ -77,10 +78,7 @@
 </divs></details>
 <details><summary>小さな夜のトロイメライ（pSR）2018/12/21</summary><div>
 
-- 「冒険に出かけよう」「大空の遥か、どこまでも」「瞬く間を抱きしめて」「いつまでもいつまでも君と一緒に」
-- 唇に、透明な歌
-  - 結局ぬいぐるみはPが二つ取って友達とお揃いにできたらしい
-  - 「プロデューサーが、わたしのプロデューサーで嬉しい･･････！」「あのね、わたし＿＿･･････」
+- 
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -159,7 +157,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODgxMDY5NCw3MzMzNjc3NzgsMTk2Nz
+eyJoaXN0b3J5IjpbLTI1MzU0ODk5NSw3MzMzNjc3NzgsMTk2Nz
 I0MDU3NCwxODMzNzc0NDQxLC0zMjcxOTY1ODgsLTE3NDQzMDQw
 MjMsLTE5MDc4MDk2NzAsMTA4MzExNDAwMywxNjc0NjQ4NDE0LD
 EyOTA4ODgwNjYsLTE0MTAzODk1NDMsLTE0MzY0NjM5MDQsLTIx
