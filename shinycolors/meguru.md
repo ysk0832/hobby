@@ -85,6 +85,7 @@
 </divs></details>
 <details><summary>スタァライトショウタイム（sSSR）</summary><div>
 
+
 - Pに予定を調整してもらい3人で旅行
 - 流れ星に夢を宣誓
 </divs></details>
@@ -123,9 +124,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc4MDk2NzAsMTA4MzExNDAwMywxNj
-c0NjQ4NDE0LDEyOTA4ODgwNjYsLTE0MTAzODk1NDMsLTE0MzY0
-NjM5MDQsLTIxMjQ2OTY3NjcsLTM5NjIxNTU3NSw4MzkxMzAxMj
-gsLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNjE4MSwtMzI5
-MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbLTc0NTc4MTg3NiwtMTkwNzgwOTY3MCwxMD
+gzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4ODA2NiwtMTQxMDM4
+OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Njc2NywtMzk2MjE1NT
+c1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIwODYxNDQzNTksLTY0
+NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
