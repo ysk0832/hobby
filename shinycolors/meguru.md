@@ -68,7 +68,8 @@
 
 - 「冒険に出かけよう」「大空の遥か、どこまでも」「瞬く間を抱きしめて」「いつまでもいつまでも君と一緒に」
 - 唇に、透明な歌
-  - 
+  - 結局ぬいぐるみはPが二つ取って友達とお揃いにできたらしい
+  - 「プロデューサーが、わたしのプロデューサーで嬉しい･･････！」「あのね、わたし」
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -147,7 +148,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTE5NTYyOCwxOTY3MjQwNTc0LDE4Mz
+eyJoaXN0b3J5IjpbMTQxMjQ5ODA4MiwxOTY3MjQwNTc0LDE4Mz
 M3NzQ0NDEsLTMyNzE5NjU4OCwtMTc0NDMwNDAyMywtMTkwNzgw
 OTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4ODA2Ni
 wtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Njc2Nywt
