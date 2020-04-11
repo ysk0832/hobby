@@ -83,7 +83,7 @@
 
 - 灯織復活記念パーティー
 </divs></details>
-<details><summary>スタァライトショウタイム（sSSR）</summary><div>
+<details><summary>スタァライトショウタイム（sSSR）2018/05/10</summary><div>
 
 - 【遊び疲れて･･････】風野灯織と繋がっている
 - Pに予定を調整してもらい3人で旅行
@@ -124,9 +124,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQzMDQwMjMsLTE5MDc4MDk2NzAsMT
-A4MzExNDAwMywxNjc0NjQ4NDE0LDEyOTA4ODgwNjYsLTE0MTAz
-ODk1NDMsLTE0MzY0NjM5MDQsLTIxMjQ2OTY3NjcsLTM5NjIxNT
-U3NSw4MzkxMzAxMjgsLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02
-NDcxNjE4MSwtMzI5MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbMTA1MTk3Mjg3NCwtMTc0NDMwNDAyMywtMT
+kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
+ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
+c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
+ODYxNDQzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
