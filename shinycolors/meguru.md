@@ -85,7 +85,7 @@
 </divs></details>
 <details><summary>スタァライトショウタイム（sSSR）</summary><div>
 
-
+- 【遊び疲れて･･････】風野灯織とt
 - Pに予定を調整してもらい3人で旅行
 - 流れ星に夢を宣誓
 </divs></details>
@@ -124,7 +124,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTc4MTg3NiwtMTkwNzgwOTY3MCwxMD
+eyJoaXN0b3J5IjpbLTM5MjQ0MjA4MiwtMTkwNzgwOTY3MCwxMD
 gzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4ODA2NiwtMTQxMDM4
 OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Njc2NywtMzk2MjE1NT
 c1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIwODYxNDQzNTksLTY0
