@@ -83,7 +83,9 @@
 
 - 灯織復活記念パーティー
 </divs></details>
-<details><summary>シュカのまにまに（sSSR）</summary><div>
+<details><summary>スタァライトショウタイム（sSSR）</summary><div>
+
+- 
 </divs></details>
 
 
@@ -120,8 +122,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDY0ODQxNCwxMjkwODg4MDY2LC0xND
-EwMzg5NTQzLC0xNDM2NDYzOTA0LC0yMTI0Njk2NzY3LC0zOTYy
-MTU1NzUsODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4NjE0NDM1OS
-wtNjQ3MTYxODEsLTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbMTA4MzExNDAwMywxNjc0NjQ4NDE0LDEyOT
+A4ODgwNjYsLTE0MTAzODk1NDMsLTE0MzY0NjM5MDQsLTIxMjQ2
+OTY3NjcsLTM5NjIxNTU3NSw4MzkxMzAxMjgsLTIzNDc3MDk5LC
+0yMDg2MTQ0MzU5LC02NDcxNjE4MSwtMzI5MzA0MDQ4XX0=
 -->
