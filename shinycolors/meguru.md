@@ -46,7 +46,7 @@
 - きみのための翼
   - 指切りげんまん
 </divs></details>
-<details><summary>夏に恋するピチカート！（pSSR）</summary><div>
+<details><summary>夏に恋するピチカート！（pSSR）2018/08/10</summary><div>
 
 - ピチカート（伊：pizzicato）：音楽用語．バイオリンなどの擦弦(さつげん)楽器の弦を指ではじいて音を出す技法．楽譜にはpizzicato（略してpizz.）と記し，再び弓での演奏に戻すときはarco（アルコ。イタリア語で〈弓〉の意）と指定．
 - 恋がわからない．「・・・わたし，みんなのことが大好きなんだ」「でも，それのどこから恋になるんだろう・・・」
@@ -79,7 +79,7 @@
 - 春風フレンドシップ
   - ペットショップで鳥に囲まれる真乃
 </divs></details>
-<details><summary>友達という灯り（sSR）</summary><div>
+<details><summary>友達という灯り（sSR）2018/04/28</summary><div>
 
 - 灯織復活記念パーティー
 </divs></details>
@@ -124,7 +124,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjEyMTkwNywtMTc0NDMwNDAyMywtMT
+eyJoaXN0b3J5IjpbLTc0OTA3NzI2NCwtMTc0NDMwNDAyMywtMT
 kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
 ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
 c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
