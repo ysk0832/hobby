@@ -81,6 +81,10 @@
 
 - 
 </divs></details>
+<details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
+
+- 
+</divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
@@ -160,6 +164,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE4OTk0ODAsLTExNjYzNDQ5NzYsMT
-AxMTg5MzQ4XX0=
+eyJoaXN0b3J5IjpbMTA2ODQ5MTg5NiwtMTE2NjM0NDk3NiwxMD
+ExODkzNDhdfQ==
 -->
