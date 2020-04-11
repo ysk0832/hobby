@@ -52,7 +52,7 @@
 - 恋がわからない．「・・・わたし，みんなのことが大好きなんだ」「でも，それのどこから恋になるんだろう・・・」
 - True「**なんでもない日の星空**」：出会いの公園でこれまでを振り返る．「お仕事やレッスンもそうだけどこういうなんでもない日もたくさん覚えておきたいの」
 </divs></details>
-<details><summary>シュカのまにまに（pSSR）</summary><div>
+<details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
 - まにまに（隨に）：他人の意志や事態の成り行きに任せて行動するさま．ある事柄が、他の事柄の進行とともに行われるさま．〜につれて．〜とともに．
@@ -89,7 +89,12 @@
 - Pに予定を調整してもらい3人で旅行
 - 流れ星に夢を宣誓
 </divs></details>
+<details><summary>キャプテン★パンプキン（sSSR）2018/05/10</summary><div>
 
+- 【遊び疲れて･･････】風野灯織と繋がっている
+- Pに予定を調整してもらい3人で旅行
+- 流れ星に夢を宣誓
+</divs></details>
 
 ---
 
@@ -124,7 +129,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTA3NzI2NCwtMTc0NDMwNDAyMywtMT
+eyJoaXN0b3J5IjpbMTQxOTcyODk2MCwtMTc0NDMwNDAyMywtMT
 kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
 ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
 c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
