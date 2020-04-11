@@ -66,8 +66,7 @@
 </divs></details>
 <details><summary>キネマ・リリックで夢見て（pSR）2018/09/20</summary><div>
 
-- めぐる，ぴーちゃんと出会う
-- 灯織にくっつきたがるめぐる
+- 「冒険に出かけよう」「大空の遥か、どこまでも」「瞬く間を抱きしめて」「いつまでもいつまでも君と一緒に」
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -146,10 +145,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc3NDQ0MSwtMzI3MTk2NTg4LC0xNz
-Q0MzA0MDIzLC0xOTA3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0
-ODQxNCwxMjkwODg4MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOT
-A0LC0yMTI0Njk2NzY3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0y
-MzQ3NzA5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwND
-A0OF19
+eyJoaXN0b3J5IjpbMTk2NzI0MDU3NCwxODMzNzc0NDQxLC0zMj
+cxOTY1ODgsLTE3NDQzMDQwMjMsLTE5MDc4MDk2NzAsMTA4MzEx
+NDAwMywxNjc0NjQ4NDE0LDEyOTA4ODgwNjYsLTE0MTAzODk1ND
+MsLTE0MzY0NjM5MDQsLTIxMjQ2OTY3NjcsLTM5NjIxNTU3NSw4
+MzkxMzAxMjgsLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNj
+E4MSwtMzI5MzA0MDQ4XX0=
 -->
