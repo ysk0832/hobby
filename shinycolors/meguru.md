@@ -71,6 +71,13 @@
   - 結局ぬいぐるみはPが二つ取って友達とお揃いにできたらしい
   - 「プロデューサーが、わたしのプロデューサーで嬉しい･･････！」「あのね、わたし＿＿･･････」
 </divs></details>
+<details><summary>小さな夜のトロイメライ（pSR）2018/12/21</summary><div>
+
+- 「冒険に出かけよう」「大空の遥か、どこまでも」「瞬く間を抱きしめて」「いつまでもいつまでも君と一緒に」
+- 唇に、透明な歌
+  - 結局ぬいぐるみはPが二つ取って友達とお揃いにできたらしい
+  - 「プロデューサーが、わたしのプロデューサーで嬉しい･･････！」「あのね、わたし＿＿･･････」
+</divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
 - 朱夏：季節の「夏」を表す．五行説で赤色を夏に配することに由来している．
@@ -148,10 +155,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMzY3Nzc4LDE5NjcyNDA1NzQsMTgzMz
-c3NDQ0MSwtMzI3MTk2NTg4LC0xNzQ0MzA0MDIzLC0xOTA3ODA5
-NjcwLDEwODMxMTQwMDMsMTY3NDY0ODQxNCwxMjkwODg4MDY2LC
-0xNDEwMzg5NTQzLC0xNDM2NDYzOTA0LC0yMTI0Njk2NzY3LC0z
-OTYyMTU1NzUsODM5MTMwMTI4LC0yMzQ3NzA5OSwtMjA4NjE0ND
-M1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
+eyJoaXN0b3J5IjpbLTEyMjkxNDU2ODEsNzMzMzY3Nzc4LDE5Nj
+cyNDA1NzQsMTgzMzc3NDQ0MSwtMzI3MTk2NTg4LC0xNzQ0MzA0
+MDIzLC0xOTA3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0ODQxNC
+wxMjkwODg4MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOTA0LC0y
+MTI0Njk2NzY3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0yMzQ3Nz
+A5OSwtMjA4NjE0NDM1OSwtNjQ3MTYxODEsLTMyOTMwNDA0OF19
+
 -->
