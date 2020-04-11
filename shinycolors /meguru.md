@@ -124,7 +124,8 @@
 </divs></details>
 <details><summary>キャプテン★パンプキン（sSSR）2018/09/30</summary><div>
 
-- 
+- イベントの補完
+- 3人の絆を再確認
 </divs></details>
 <details><summary>アイムカミングスーン（sSR）2019/01/31</summary><div>
 
@@ -172,6 +173,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM4NDAwMTksLTExNjYzNDQ5NzYsMT
-AxMTg5MzQ4XX0=
+eyJoaXN0b3J5IjpbLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMT
+E2NjM0NDk3NiwxMDExODkzNDhdfQ==
 -->
