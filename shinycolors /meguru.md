@@ -120,9 +120,11 @@
 </divs></details>
 <details><summary>キャプテン★パンプキン（sSSR）2018/09/30</summary><div>
 
-- 【遊び疲れて･･････】風野灯織と繋がっている
-- Pに予定を調整してもらい3人で旅行
-- 流れ星に夢を宣誓
+- 
+</divs></details>
+<details><summary>キャプテン★パンプキン（sSSR）2018/09/30</summary><div>
+
+- 
 </divs></details>
 
 ---
@@ -158,5 +160,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYzNDQ5NzYsMTAxMTg5MzQ4XX0=
+eyJoaXN0b3J5IjpbLTIzMjA5MzExNCwtMTE2NjM0NDk3NiwxMD
+ExODkzNDhdfQ==
 -->
