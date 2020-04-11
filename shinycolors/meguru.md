@@ -34,7 +34,9 @@
 ---
 
 ## アイドルコミュ
-### プロデュース
+### 実装順
+
+### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
 
 - めぐる，大活躍！
@@ -67,7 +69,7 @@
 </divs></details>
 
 
-### サポート
+### サポートカード
 <details><summary>283プロのヒナ（sR）</summary><div>
 
 - めぐる，ぴーちゃんと出会う
@@ -134,7 +136,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjI5MzAwOSwtMTc0NDMwNDAyMywtMT
+eyJoaXN0b3J5IjpbLTMyNzE5NjU4OCwtMTc0NDMwNDAyMywtMT
 kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
 ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
 c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
