@@ -48,6 +48,7 @@
 |2018/12/21|小さな夜のトロイメライ（pSR）|
 |2019/01/31|アイムカミングスーン|
 |2019/04/19|チエルアルコは流星の|
+|2019/04/29|花笑み咲匂う|
 |2019/07/19|サンシャインシエスタ！|
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
@@ -158,7 +159,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjk3MTE3NCw3MzMzNjc3NzgsMTk2Nz
+eyJoaXN0b3J5IjpbMjAxODgxMDY5NCw3MzMzNjc3NzgsMTk2Nz
 I0MDU3NCwxODMzNzc0NDQxLC0zMjcxOTY1ODgsLTE3NDQzMDQw
 MjMsLTE5MDc4MDk2NzAsMTA4MzExNDAwMywxNjc0NjQ4NDE0LD
 EyOTA4ODgwNjYsLTE0MTAzODk1NDMsLTE0MzY0NjM5MDQsLTIx
