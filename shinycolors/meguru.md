@@ -42,7 +42,10 @@
 |2018/04/24|友情の花吹雪（sSR）|
 |2018/04/28|友達という灯り（sSR）|
 |2018/05/10|スタァライトショウタイム（sSSR）|
-||夏に恋するピチカート！（pSSR）|
+|2018/08/10|夏に恋するピチカート！（pSSR）|
+|2018/09/20|キネマ・リリックで夢見て（pSR）|
+|2018/09/30|キャプテン★パンプキン（sSSR）|
+|||
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
 
@@ -143,7 +146,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEzMDM5MSwtMzI3MTk2NTg4LC0xNz
+eyJoaXN0b3J5IjpbMTgzMzc3NDQ0MSwtMzI3MTk2NTg4LC0xNz
 Q0MzA0MDIzLC0xOTA3ODA5NjcwLDEwODMxMTQwMDMsMTY3NDY0
 ODQxNCwxMjkwODg4MDY2LC0xNDEwMzg5NTQzLC0xNDM2NDYzOT
 A0LC0yMTI0Njk2NzY3LC0zOTYyMTU1NzUsODM5MTMwMTI4LC0y
