@@ -68,7 +68,7 @@
 - めぐる，ぴーちゃんと出会う
 - 灯織にくっつきたがるめぐる
 </divs></details>
-<details><summary>友情の花吹雪（sSR）</summary><div>
+<details><summary>友情の花吹雪（sSR）2018/04/24</summary><div>
 
 真乃との距離を縮めるコミュ
 - お友達になる方法
@@ -124,7 +124,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTk3Mjg3NCwtMTc0NDMwNDAyMywtMT
+eyJoaXN0b3J5IjpbLTg2NjEyMTkwNywtMTc0NDMwNDAyMywtMT
 kwNzgwOTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4
 ODA2NiwtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Nj
 c2NywtMzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIw
