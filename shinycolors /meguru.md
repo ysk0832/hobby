@@ -145,7 +145,7 @@
 ---
 ## スペシャルコミュ
 ### 2019バレンタイン
-
+- https://shinymaster.hateblo.jp/entry/valentine2019#%E5%85%AB%E5%AE%AE-%E3%82%81%E3%81%90%E3%82%8B
 ## その他（朝コミュなどから）
 - 早寝早起き
 - 定食屋よりハンバーガーショップ入る方がハードル低い？
@@ -177,6 +177,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzM4OTQzMiwtODM4NzQ1NzE3LC0xOT
+eyJoaXN0b3J5IjpbMTU0NTU4OTIxMiwtODM4NzQ1NzE3LC0xOT
 czODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4OTM0OF19
 -->
