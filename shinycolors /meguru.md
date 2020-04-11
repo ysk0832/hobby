@@ -38,7 +38,7 @@
 
 |実装日|カード名|
 |-----------|----------|
-|初期から|283プロのヒナ（sR）<br>金色の元気いっぱいガール（pSSR）|
+|初期から|白いツバサ（pR）<br>283プロのヒナ（sR）<br>金色の元気いっぱいガール（pSSR）|
 |2018/04/24|友情の花吹雪（sSR）|
 |2018/04/28|友達という灯り（sSR）|
 |2018/05/10|スタァライトショウタイム（sSSR）|
@@ -158,5 +158,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MTE5MjkzLDEwMTE4OTM0OF19
+eyJoaXN0b3J5IjpbLTExNjYzNDQ5NzYsMTAxMTg5MzQ4XX0=
 -->
