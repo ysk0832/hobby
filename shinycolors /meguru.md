@@ -143,7 +143,9 @@
 </divs></details>
 
 ---
-## すぺしゃるこmy
+## スペシャルコミュ
+### 2019バレンタイン
+
 ## その他（朝コミュなどから）
 - 早寝早起き
 - 定食屋よりハンバーガーショップ入る方がハードル低い？
@@ -175,6 +177,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODM1NzM0NCwtODM4NzQ1NzE3LC0xOT
+eyJoaXN0b3J5IjpbLTYyMzM4OTQzMiwtODM4NzQ1NzE3LC0xOT
 czODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4OTM0OF19
 -->
