@@ -67,6 +67,8 @@
 <details><summary>キネマ・リリックで夢見て（pSR）2018/09/20</summary><div>
 
 - 「冒険に出かけよう」「大空の遥か、どこまでも」「瞬く間を抱きしめて」「いつまでもいつまでも君と一緒に」
+- 唇に、透明な歌
+  - 
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -145,10 +147,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzI0MDU3NCwxODMzNzc0NDQxLC0zMj
-cxOTY1ODgsLTE3NDQzMDQwMjMsLTE5MDc4MDk2NzAsMTA4MzEx
-NDAwMywxNjc0NjQ4NDE0LDEyOTA4ODgwNjYsLTE0MTAzODk1ND
-MsLTE0MzY0NjM5MDQsLTIxMjQ2OTY3NjcsLTM5NjIxNTU3NSw4
-MzkxMzAxMjgsLTIzNDc3MDk5LC0yMDg2MTQ0MzU5LC02NDcxNj
-E4MSwtMzI5MzA0MDQ4XX0=
+eyJoaXN0b3J5IjpbMTU4OTE5NTYyOCwxOTY3MjQwNTc0LDE4Mz
+M3NzQ0NDEsLTMyNzE5NjU4OCwtMTc0NDMwNDAyMywtMTkwNzgw
+OTY3MCwxMDgzMTE0MDAzLDE2NzQ2NDg0MTQsMTI5MDg4ODA2Ni
+wtMTQxMDM4OTU0MywtMTQzNjQ2MzkwNCwtMjEyNDY5Njc2Nywt
+Mzk2MjE1NTc1LDgzOTEzMDEyOCwtMjM0NzcwOTksLTIwODYxND
+QzNTksLTY0NzE2MTgxLC0zMjkzMDQwNDhdfQ==
 -->
