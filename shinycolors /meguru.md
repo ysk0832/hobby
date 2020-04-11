@@ -134,6 +134,10 @@
 
 - 
 </divs></details>
+<details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
+
+- 
+</divs></details>
 
 ---
 
@@ -168,6 +172,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTM4NTQzMywtMTE2NjM0NDk3NiwxMD
-ExODkzNDhdfQ==
+eyJoaXN0b3J5IjpbLTE5NzM4NDAwMTksLTExNjYzNDQ5NzYsMT
+AxMTg5MzQ4XX0=
 -->
