@@ -46,6 +46,8 @@
 |2018/09/20|キネマ・リリックで夢見て（pSR）|
 |2018/09/30|キャプテン★パンプキン（sSSR）|
 |2018/12/21|小さな夜のトロイメライ（pSR）|
+|2019/01/31||
+|2019/04/19|チエルアルコは流星の|
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
 
@@ -155,7 +157,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDI0ODU0MSw3MzMzNjc3NzgsMTk2Nz
+eyJoaXN0b3J5IjpbLTg5NDQzMzgyMSw3MzMzNjc3NzgsMTk2Nz
 I0MDU3NCwxODMzNzc0NDQxLC0zMjcxOTY1ODgsLTE3NDQzMDQw
 MjMsLTE5MDc4MDk2NzAsMTA4MzExNDAwMywxNjc0NjQ4NDE0LD
 EyOTA4ODgwNjYsLTE0MTAzODk1NDMsLTE0MzY0NjM5MDQsLTIx
