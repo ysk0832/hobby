@@ -142,6 +142,7 @@
 
 - チューリップの花言葉は「思いやり」
 - 【星掬い藍仰ぐ】風野灯織と相似したサブタイになっている
+- 3人とも互いのことをよく見ている
 </divs></details>
 <details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
 
@@ -183,6 +184,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTMxNjQyMywxMDQxODIyMDE0LDExOD
-M5NTk3NDNdfQ==
+eyJoaXN0b3J5IjpbMjU5OTk4NjE1XX0=
 -->
