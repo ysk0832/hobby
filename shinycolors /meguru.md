@@ -135,6 +135,7 @@
 <details><summary>アイムカミングスーン（sSR）2019/01/31</summary><div>
 
 - 餃子コミュは実はこれ
+- 灯織もめぐるも真乃の異変には気づいていた
 - キンクロハジロ
 </divs></details>
 <details><summary>花笑み咲匂う（sSSR）2019/04/29</summary><div>
@@ -181,7 +182,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTQ0NDgxMCwxMTgzOTU5NzQzLDE1ND
+eyJoaXN0b3J5IjpbMTA0MTgyMjAxNCwxMTgzOTU5NzQzLDE1ND
 U1ODkyMTIsLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMTE2NjM0
 NDk3NiwxMDExODkzNDhdfQ==
 -->
