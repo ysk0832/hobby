@@ -141,7 +141,7 @@
 <details><summary>花笑み咲匂う（sSSR）2019/04/29</summary><div>
 
 - チューリップの花言葉は「思いやり」
-- 
+- 【星掬い藍仰ぐ】風野灯織と相似したサブタイになっている
 </divs></details>
 <details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
 
@@ -183,6 +183,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NjIyNzIyLDEwNDE4MjIwMTQsMTE4Mz
-k1OTc0M119
+eyJoaXN0b3J5IjpbMTIwOTMxNjQyMywxMDQxODIyMDE0LDExOD
+M5NTk3NDNdfQ==
 -->
