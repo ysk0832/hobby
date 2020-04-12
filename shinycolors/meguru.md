@@ -134,7 +134,8 @@
 </divs></details>
 <details><summary>アイムカミングスーン（sSR）2019/01/31</summary><div>
 
-- 餃子コミュは
+- 餃子コミュは実はこれ
+- キンクロハジロ
 </divs></details>
 <details><summary>花笑み咲匂う（sSSR）2019/04/29</summary><div>
 
@@ -180,5 +181,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzI1Mzc1NiwxMTgzOTU5NzQzXX0=
+eyJoaXN0b3J5IjpbMjA5OTQ0NDgxMCwxMTgzOTU5NzQzXX0=
 -->
