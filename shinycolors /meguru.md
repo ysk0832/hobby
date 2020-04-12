@@ -140,7 +140,7 @@
 </divs></details>
 <details><summary>花笑み咲匂う（sSSR）2019/04/29</summary><div>
 
-- 
+- チューリップの花言葉は「思いやり」
 </divs></details>
 <details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
 
@@ -182,7 +182,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTgyMjAxNCwxMTgzOTU5NzQzLDE1ND
-U1ODkyMTIsLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMTE2NjM0
-NDk3NiwxMDExODkzNDhdfQ==
+eyJoaXN0b3J5IjpbLTI4ODc1MDk2OSwxMDQxODIyMDE0LDExOD
+M5NTk3NDMsMTU0NTU4OTIxMiwtODM4NzQ1NzE3LC0xOTczODQw
+MDE5LC0xMTY2MzQ0OTc2LDEwMTE4OTM0OF19
 -->
