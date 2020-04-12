@@ -134,7 +134,7 @@
 </divs></details>
 <details><summary>アイムカミングスーン（sSR）2019/01/31</summary><div>
 
-- 
+- 餃子コミュは
 </divs></details>
 <details><summary>花笑み咲匂う（sSSR）2019/04/29</summary><div>
 
@@ -180,5 +180,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk1OTc0M119
+eyJoaXN0b3J5IjpbMTY4NzI1Mzc1NiwxMTgzOTU5NzQzXX0=
 -->
