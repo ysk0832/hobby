@@ -98,7 +98,7 @@
   - 「大丈夫・・・きみの色は、とっても綺麗だよ」
 - 無重力のウテナ
   - 主人公の親友、とにかく元気な役
-  - 「」
+  - 「いまはもう、あの子にかけてあげる言葉が見つかったから・・・」
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -194,6 +194,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYxODU2NDMsLTEyMTEwMTk2ODYsNT
-I0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
+eyJoaXN0b3J5IjpbNTk2ODE5NTkzLC0xMjExMDE5Njg2LDUyND
+IyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYxNV19
 -->
