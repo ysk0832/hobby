@@ -93,7 +93,7 @@
 - 異邦の青、浮遊する
   - 「大正時代の日本にやってきた青い目の女の子。大人しくて、喋るのが苦手・・・」
 - 同調の水、されど
-  - 寝癖に気づかない
+  - 寝癖を気にする
   - 「・・・ううん、わたしにはわからないよ」「この魚の気持ちは、この魚にしかわからないもん」
   - 「大丈夫・・・きみの色は、とっても綺麗だよ」
 - 無重力のウテナ
@@ -194,9 +194,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2ODE5NTkzLC0xMjExMDE5Njg2LDUyND
-IyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYxNSwxMjA5MzE2NDIz
-LDEwNDE4MjIwMTQsMTE4Mzk1OTc0MywxNTQ1NTg5MjEyLC04Mz
-g3NDU3MTcsLTE5NzM4NDAwMTksLTExNjYzNDQ5NzYsMTAxMTg5
-MzQ4XX0=
+eyJoaXN0b3J5IjpbMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1Mj
+QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTUsMTIwOTMxNjQy
+MywxMDQxODIyMDE0LDExODM5NTk3NDMsMTU0NTU4OTIxMiwtOD
+M4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4
+OTM0OF19
 -->
