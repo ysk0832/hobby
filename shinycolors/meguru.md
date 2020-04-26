@@ -158,7 +158,7 @@
 </divs></details>
 <details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
 
-- 
+- かんばせ：顔つき。顔の色。
 </divs></details>
 
 ---
@@ -196,7 +196,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDI3MjcyMywtMzAzMjY5Mzk0LC0xOD
-IyMTUwNTQsMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1MjQyMjEw
-NzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
+eyJoaXN0b3J5IjpbNTY0MTQxMDI5LDE2NjQyNzI3MjMsLTMwMz
+I2OTM5NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2
+ODYsNTI0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
 -->
