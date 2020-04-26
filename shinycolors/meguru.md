@@ -70,6 +70,9 @@
 |2019/04/29|花笑み咲匂う（sSSR）|
 |2019/06/20|シュカのまにまに（pSSR）|
 |2019/07/19|サンシャインシエスタ！（sSR）|
+|2019/10/31|ああひかりよ（sSSR）|
+|2019/12/26|日々を紡ぐインヴェルノ|
+|||
 
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
@@ -216,8 +219,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTgwNDA3OSwtMTYxODgzNjM1NCw2Mz
-g1NzA4MTUsNTY0MTQxMDI5LDE2NjQyNzI3MjMsLTMwMzI2OTM5
-NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2ODYsNT
-I0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
+eyJoaXN0b3J5IjpbNjI2Mzk5MTEwLC03MzE4MDQwNzksLTE2MT
+g4MzYzNTQsNjM4NTcwODE1LDU2NDE0MTAyOSwxNjY0MjcyNzIz
+LC0zMDMyNjkzOTQsLTE4MjIxNTA1NCwxNTUwMjg2OTI1LC0xMj
+ExMDE5Njg2LDUyNDIyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYx
+NV19
 -->
