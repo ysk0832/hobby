@@ -159,6 +159,7 @@
 <details><summary>サンシャインシエスタ！（sSR）2019/07/19</summary><div>
 
 - かんばせ：顔つき。顔の色。
+- 灯織の詠唱が鉄板になりつつある（お好み焼きだけに）
 </divs></details>
 
 ---
@@ -196,7 +197,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MTQxMDI5LDE2NjQyNzI3MjMsLTMwMz
-I2OTM5NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2
-ODYsNTI0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
+eyJoaXN0b3J5IjpbLTU0MzgxMzAyMSw1NjQxNDEwMjksMTY2ND
+I3MjcyMywtMzAzMjY5Mzk0LC0xODIyMTUwNTQsMTU1MDI4Njky
+NSwtMTIxMTAxOTY4Niw1MjQyMjEwNzYsMTU0MTk3NDc3NCwyNT
+k5OTg2MTVdfQ==
 -->
