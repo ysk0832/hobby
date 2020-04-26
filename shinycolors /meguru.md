@@ -88,7 +88,7 @@
 </divs></details>
 <details><summary>チエルアルコは流星の（pSR）2019/04/19</summary><div>
 
-- 
+- [チエルアルコ]([http://www8.plala.or.jp/lumidina/neta/netadaiti.html](http://www8.plala.or.jp/lumidina/neta/netadaiti.html))：エスペラント語で虹
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -184,8 +184,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5OTk4NjE1LDEyMDkzMTY0MjMsMTA0MT
-gyMjAxNCwxMTgzOTU5NzQzLDE1NDU1ODkyMTIsLTgzODc0NTcx
-NywtMTk3Mzg0MDAxOSwtMTE2NjM0NDk3NiwxMDExODkzNDhdfQ
-==
+eyJoaXN0b3J5IjpbMTU0MTk3NDc3NCwyNTk5OTg2MTUsMTIwOT
+MxNjQyMywxMDQxODIyMDE0LDExODM5NTk3NDMsMTU0NTU4OTIx
+MiwtODM4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LD
+EwMTE4OTM0OF19
 -->
