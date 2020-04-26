@@ -17,6 +17,7 @@
 |趣味|人と話すこと、体を動かすこと|
 |特技|スポーツ全般|
 |CV.|峯田茉優|
+
 </divs></details>
 
 ---
@@ -231,5 +232,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxMzQ5NV19
+eyJoaXN0b3J5IjpbLTQzMjg4Nzg0NV19
 -->
