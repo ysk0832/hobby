@@ -16,8 +16,7 @@
 |出身地|アメリカ　マサチューセッツ州|
 |趣味|人と話すこと、体を動かすこと|
 |特技|スポーツ全般|
-|CV.|峯田茉柚|
-
+|CV.|峯田茉優|
 </divs></details>
 
 ---
@@ -217,7 +216,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg5NjAxMywtMTYxODgzNjM1NCw2Mz
+eyJoaXN0b3J5IjpbLTczMTgwNDA3OSwtMTYxODgzNjM1NCw2Mz
 g1NzA4MTUsNTY0MTQxMDI5LDE2NjQyNzI3MjMsLTMwMzI2OTM5
 NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2ODYsNT
 I0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1LDEyMDkzMTY0
