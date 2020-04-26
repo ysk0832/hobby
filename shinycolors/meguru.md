@@ -14,7 +14,9 @@
 |スリーサイズ|90/59/89|
 |利き手|右|
 |出身地|アメリカ　マサチューセッツ州|
-|||
+|趣味|人と話すこと、体を動かすこと|
+|特技|スポーツ全般|
+|CV.|峯田茉|
 
 </divs></details>
 
@@ -215,8 +217,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4OTQyNzc4LC0xNjE4ODM2MzU0LDYzOD
-U3MDgxNSw1NjQxNDEwMjksMTY2NDI3MjcyMywtMzAzMjY5Mzk0
-LC0xODIyMTUwNTQsMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1Mj
-QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
+eyJoaXN0b3J5IjpbLTk3ODk5NDU1NSwtMTYxODgzNjM1NCw2Mz
+g1NzA4MTUsNTY0MTQxMDI5LDE2NjQyNzI3MjMsLTMwMzI2OTM5
+NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2ODYsNT
+I0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
 -->
