@@ -132,6 +132,15 @@
 - 「プロデューサーが子どもの頃，っていうのがピンとこないからなのかなぁ・・・？」
 - True「**なんでもない日の夏空**」：買い出し，シャーベット
 </divs></details>
+<details><summary>日々を紡ぐインヴェルノ（pSSR）2019/12/26</summary><div>
+
+- 
+</divs></details>
+<details><summary>ハロー・ワールド（）2020/03/19</summary><div>
+
+- めぐる，ぴーちゃんと出会う
+- 灯織にくっつきたがるめぐる
+</divs></details>
 
 
 ### サポートカード
@@ -223,11 +232,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3NDg4NjgsLTczMTgwNDA3OSwtMT
-YxODgzNjM1NCw2Mzg1NzA4MTUsNTY0MTQxMDI5LDE2NjQyNzI3
-MjMsLTMwMzI2OTM5NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLT
-EyMTEwMTk2ODYsNTI0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4
-NjE1LDEyMDkzMTY0MjMsMTA0MTgyMjAxNCwxMTgzOTU5NzQzLD
-E1NDU1ODkyMTIsLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMTE2
-NjM0NDk3Nl19
+eyJoaXN0b3J5IjpbLTI5NDY3NjQ3NywtNzMxODA0MDc5LC0xNj
+E4ODM2MzU0LDYzODU3MDgxNSw1NjQxNDEwMjksMTY2NDI3Mjcy
+MywtMzAzMjY5Mzk0LC0xODIyMTUwNTQsMTU1MDI4NjkyNSwtMT
+IxMTAxOTY4Niw1MjQyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2
+MTUsMTIwOTMxNjQyMywxMDQxODIyMDE0LDExODM5NTk3NDMsMT
+U0NTU4OTIxMiwtODM4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2
+MzQ0OTc2XX0=
 -->
