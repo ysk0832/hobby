@@ -97,7 +97,7 @@
   - 「・・・ううん、わたしにはわからないよ」「この魚の気持ちは、この魚にしかわからないもん」
   - 「大丈夫・・・きみの色は、とっても綺麗だよ」
 - 無重力のウテナ
-  - 
+  - 主人公の親友、とにかく元気な役
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -193,7 +193,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTQwNzcwNiwtMTIxMTAxOTY4Niw1Mj
+eyJoaXN0b3J5IjpbMTU4OTk5OTA4NywtMTIxMTAxOTY4Niw1Mj
 QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTUsMTIwOTMxNjQy
 MywxMDQxODIyMDE0LDExODM5NTk3NDMsMTU0NTU4OTIxMiwtOD
 M4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4
