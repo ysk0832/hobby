@@ -99,6 +99,7 @@
 - 無重力のウテナ
   - 主人公の親友、とにかく元気な役
   - 「いまはもう、あの子にかけてあげる言葉が見つかったから・・・」
+- 
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -194,9 +195,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1Mj
-QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTUsMTIwOTMxNjQy
-MywxMDQxODIyMDE0LDExODM5NTk3NDMsMTU0NTU4OTIxMiwtOD
-M4NzQ1NzE3LC0xOTczODQwMDE5LC0xMTY2MzQ0OTc2LDEwMTE4
-OTM0OF19
+eyJoaXN0b3J5IjpbLTE4MjIxNTA1NCwxNTUwMjg2OTI1LC0xMj
+ExMDE5Njg2LDUyNDIyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYx
+NSwxMjA5MzE2NDIzLDEwNDE4MjIwMTQsMTE4Mzk1OTc0MywxNT
+Q1NTg5MjEyLC04Mzg3NDU3MTcsLTE5NzM4NDAwMTksLTExNjYz
+NDQ5NzYsMTAxMTg5MzQ4XX0=
 -->
