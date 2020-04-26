@@ -90,7 +90,8 @@
 
 - [チエルアルコ]([http://www8.plala.or.jp/lumidina/neta/netadaiti.html](http://www8.plala.or.jp/lumidina/neta/netadaiti.html))：エスペラント語で虹
 - [エスペラント語]([https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%88](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%88))：母語の異なる人々の間での意思伝達を目的とする、国際補助語
-- 異邦のあお
+- 異邦の青、浮遊する
+  - 大正時代の日本にやってきた青い目の女の子。大人しくて、喋るのが苦手・・・
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -186,6 +187,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzkzMDQzLDUyNDIyMTA3NiwxNTQxOT
-c0Nzc0LDI1OTk5ODYxNV19
+eyJoaXN0b3J5IjpbLTEyMTEwMTk2ODYsNTI0MjIxMDc2LDE1ND
+E5NzQ3NzQsMjU5OTk4NjE1XX0=
 -->
