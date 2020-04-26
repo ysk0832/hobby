@@ -95,6 +95,8 @@
 - 同調の水、されど
   - 寝癖に気づかない
   - 「・・・ううん、わたしにはわからないよ」「この魚の気持ちは、この魚にしかわからないもん」
+  - 「大丈夫・・・きみの色は、とっても綺麗だよ」
+- 
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -190,6 +192,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODExNDI0MCwtMTIxMTAxOTY4Niw1Mj
-QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
+eyJoaXN0b3J5IjpbOTgwNDM0MjMwLC0xMjExMDE5Njg2LDUyND
+IyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYxNV19
 -->
