@@ -5,9 +5,9 @@
 |名前|はちみやめぐる|
 |--|--|
 |ユニット|イルミネーションスターズ|
-|||
-|||
-|||
+|年齢|16歳|
+|血液型|O型|
+|誕生日|7月22日|
 |||
 
 </divs></details>
@@ -209,8 +209,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NTcwODE1LDU2NDE0MTAyOSwxNjY0Mj
-cyNzIzLC0zMDMyNjkzOTQsLTE4MjIxNTA1NCwxNTUwMjg2OTI1
-LC0xMjExMDE5Njg2LDUyNDIyMTA3NiwxNTQxOTc0Nzc0LDI1OT
-k5ODYxNV19
+eyJoaXN0b3J5IjpbLTc4ODYyMTU0MSw2Mzg1NzA4MTUsNTY0MT
+QxMDI5LDE2NjQyNzI3MjMsLTMwMzI2OTM5NCwtMTgyMjE1MDU0
+LDE1NTAyODY5MjUsLTEyMTEwMTk2ODYsNTI0MjIxMDc2LDE1ND
+E5NzQ3NzQsMjU5OTk4NjE1XX0=
 -->
