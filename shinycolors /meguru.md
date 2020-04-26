@@ -72,7 +72,7 @@
 |2019/07/19|サンシャインシエスタ！（sSR）|
 |2019/10/31|ああひかりよ（sSSR）|
 |2019/12/26|日々を紡ぐインヴェルノ|
-|||
+|2020/03/19|ハロー・ワールド|
 
 ### プロデュースカード
 <details><summary>金色の元気いっぱいガール（pSSR）</summary><divs>
@@ -183,6 +183,10 @@
 - かんばせ：顔つき。顔の色。
 - 灯織の詠唱が鉄板になりつつある（お好み焼きだけに）
 </divs></details>
+<details><summary>ああひかりよ（sSSR）2019/10/31</summary><div>
+
+- 
+</divs></details>
 
 ---
 ## スペシャルコミュ
@@ -219,11 +223,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2Mzk5MTEwLC03MzE4MDQwNzksLTE2MT
-g4MzYzNTQsNjM4NTcwODE1LDU2NDE0MTAyOSwxNjY0MjcyNzIz
-LC0zMDMyNjkzOTQsLTE4MjIxNTA1NCwxNTUwMjg2OTI1LC0xMj
-ExMDE5Njg2LDUyNDIyMTA3NiwxNTQxOTc0Nzc0LDI1OTk5ODYx
-NSwxMjA5MzE2NDIzLDEwNDE4MjIwMTQsMTE4Mzk1OTc0MywxNT
-Q1NTg5MjEyLC04Mzg3NDU3MTcsLTE5NzM4NDAwMTksLTExNjYz
-NDQ5NzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTc3NDg4NjgsLTczMTgwNDA3OSwtMT
+YxODgzNjM1NCw2Mzg1NzA4MTUsNTY0MTQxMDI5LDE2NjQyNzI3
+MjMsLTMwMzI2OTM5NCwtMTgyMjE1MDU0LDE1NTAyODY5MjUsLT
+EyMTEwMTk2ODYsNTI0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4
+NjE1LDEyMDkzMTY0MjMsMTA0MTgyMjAxNCwxMTgzOTU5NzQzLD
+E1NDU1ODkyMTIsLTgzODc0NTcxNywtMTk3Mzg0MDAxOSwtMTE2
+NjM0NDk3Nl19
 -->
