@@ -94,7 +94,7 @@
   - 「大正時代の日本にやってきた青い目の女の子。大人しくて、喋るのが苦手・・・」
 - 同調の水、されど
   - 寝癖に気づかない
-  - 「・・・ううん、わたしにはわからないよ」「この魚の気持ちは、この魚にしか」
+  - 「・・・ううん、わたしにはわからないよ」「この魚の気持ちは、この魚にしかわからないもん」
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -190,6 +190,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE3NzMwNDIsLTEyMTEwMTk2ODYsNT
-I0MjIxMDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
+eyJoaXN0b3J5IjpbMTUyODExNDI0MCwtMTIxMTAxOTY4Niw1Mj
+QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
 -->
