@@ -100,7 +100,7 @@
   - 主人公の親友、とにかく元気な役
   - 「いまはもう、あの子にかけてあげる言葉が見つかったから・・・」
 - 特訓後がMA FINALEのオマージュ→空→繋ぐレインボー
-- 様々な”ボーダー”を超えて
+- 様々な”ボーダー”を越えて人々を繋ぐ、架け橋のような存在（エスペラント語の）
 </divs></details>
 <details><summary>シュカのまにまに（pSSR）2019/06/20</summary><div>
 
@@ -196,7 +196,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM3NjAyNzcsLTMwMzI2OTM5NCwtMT
-gyMjE1MDU0LDE1NTAyODY5MjUsLTEyMTEwMTk2ODYsNTI0MjIx
-MDc2LDE1NDE5NzQ3NzQsMjU5OTk4NjE1XX0=
+eyJoaXN0b3J5IjpbLTc0NjMzMDE3NSwtMzAzMjY5Mzk0LC0xOD
+IyMTUwNTQsMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1MjQyMjEw
+NzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
 -->
