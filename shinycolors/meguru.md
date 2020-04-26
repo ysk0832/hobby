@@ -11,6 +11,9 @@
 |星座|蟹座|
 |身長|157cm|
 |体重|46kg|
+|スリーサイズ|90/59/89|
+|利き手|右|
+|出身地|アメリカ　マサチューセッツ州|
 |||
 
 </divs></details>
@@ -212,8 +215,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg4MzYzNTQsNjM4NTcwODE1LDU2ND
-E0MTAyOSwxNjY0MjcyNzIzLC0zMDMyNjkzOTQsLTE4MjIxNTA1
-NCwxNTUwMjg2OTI1LC0xMjExMDE5Njg2LDUyNDIyMTA3NiwxNT
-QxOTc0Nzc0LDI1OTk5ODYxNV19
+eyJoaXN0b3J5IjpbNTA4OTQyNzc4LC0xNjE4ODM2MzU0LDYzOD
+U3MDgxNSw1NjQxNDEwMjksMTY2NDI3MjcyMywtMzAzMjY5Mzk0
+LC0xODIyMTUwNTQsMTU1MDI4NjkyNSwtMTIxMTAxOTY4Niw1Mj
+QyMjEwNzYsMTU0MTk3NDc3NCwyNTk5OTg2MTVdfQ==
 -->
