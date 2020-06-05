@@ -151,9 +151,6 @@ async def on_message(message):
         else:
             await message.channel.send("静かだねぇ〜")
 
-    if message.content.startswith('/yuzu'):
-        await message.channel.send("なになに？柚とお話したいの？")
-
     if message.content == '/bye':
         await message.channel.send("じゃあねー♪")
         await client.logout()
